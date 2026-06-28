@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Blue+Team+%7C+SOC+Analyst+Jr;Segurança+Defensiva+%7C+Redes;Estudando+Security%2B+SY0-701)](https://git.io/typing-svg)
+
 # Niceas Neto
 
 **Segurança Defensiva · Blue Team · Redes**
