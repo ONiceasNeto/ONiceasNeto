@@ -54,4 +54,3 @@ Estudo contínuo em fundamentos de redes, análise de tráfego e monitoramento d
 
 ---
 
-> *"Blue Team não é passivo. É quem define o que é normal."*
